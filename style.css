@@ -562,7 +562,7 @@
 
  /* Corporate Section */
     .corporate-section {
-      background: url("/IMAGES/video-min.jpg") 
+      background: url("video-min.jpg") 
         no-repeat center center/cover;
       height: 150vh;
       display: flex;
